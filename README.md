@@ -55,9 +55,9 @@ You have 8 attempt(s) left.
 ...
 
 Congratulations! You guessed the correct number. You win!
-Thank you for playing the Number Guessing Game!
+Thank you for playing the Number Guessing Game!.................
 
-# screenshots
+# sample image
 ![guessing1](https://github.com/Srivarthaniselvam/codsoft-C-Task-1/assets/151417502/2b3bae78-072d-42bc-bbec-67ae8e06ba79)
 ![guessing2](https://github.com/Srivarthaniselvam/codsoft-C-Task-1/assets/151417502/4eaef30c-14a0-4262-ac6f-f3aa2dd894b2)
 ![guessing3](https://github.com/Srivarthaniselvam/codsoft-C-Task-1/assets/151417502/867be339-ae9c-4d77-ad19-b266d0e625cf)
