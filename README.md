@@ -60,8 +60,8 @@ Thank you for playing the Number Guessing Game!
 
 # Screenshots
 
-![guessing1](https://github.com/Srivarthaniselvam/codsoft-C-Task-1/assets/151417502/22c3c42c-ecd9-4105-97df-124af0b31780)
-![guessing2](https://github.com/Srivarthaniselvam/codsoft-C-Task-1/assets/151417502/c9dcd6c7-f923-4148-b47e-5adc4faafc18)
-![guessing3](https://github.com/Srivarthaniselvam/codsoft-C-Task-1/assets/151417502/fa7112f8-ac66-4d13-b6fa-be7a166f1147)
-![guessing4](https://github.com/Srivarthaniselvam/codsoft-C-Task-1/assets/151417502/b4da268c-dd31-4b57-b6b6-bd1d62df350a)
+![guessing1](https://github.com/Srivarthaniselvam/codsoft-C-Task-1/assets/151417502/22c3c42c-ecd9-4105-97df-124af0b31780).
+![guessing2](https://github.com/Srivarthaniselvam/codsoft-C-Task-1/assets/151417502/c9dcd6c7-f923-4148-b47e-5adc4faafc18).
+![guessing3](https://github.com/Srivarthaniselvam/codsoft-C-Task-1/assets/151417502/fa7112f8-ac66-4d13-b6fa-be7a166f1147).
+![guessing4](https://github.com/Srivarthaniselvam/codsoft-C-Task-1/assets/151417502/b4da268c-dd31-4b57-b6b6-bd1d62df350a).
 
